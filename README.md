@@ -1,6 +1,6 @@
 # this is a language school's website
 
-# Link:
+# Link:https://suspicious-fermat-e83af6.netlify.app/
 
 In the project directory, you can run:
 

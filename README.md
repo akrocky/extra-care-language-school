@@ -3,7 +3,7 @@
 ###  Link:    
 ### https://suspicious-fermat-e83af6.netlify.app/
 
-In the project directory, you can run:
+
 
 ### Here students can  :
 * #### learn german language

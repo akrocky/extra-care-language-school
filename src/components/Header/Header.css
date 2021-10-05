@@ -1,0 +1,23 @@
+.header-nav {
+    background-color: rgba(0, 0, 0, 0.796);
+    height: 100px;
+   
+}
+
+.header-menu-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+   
+}
+
+.header-menu-list a{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+   margin: 30px 10px;
+   
+   
+}
